@@ -1,0 +1,25 @@
+_repo: Memorandum--cerca-das-expedi--es-realizadas-na-Zambesia-septentrional-durante-os-annos-de-188__35325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wiese, Carl
+    gutenberg_agent_id: '37599'
+    url: http://www.gutenberg.org/2009/agents/37599
+description: ''
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35325'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel'
+- !lcc 'DT'
+title: Memorandum ácerca das expedições realizadas na Zambesia septentrional durante
+  os annos de 1885 a 1891
+url: http://www.gutenberg.org/ebooks/35325
